@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+div#container-box {
+	/*border: 1px solid blue;*/
+	margin: 9% 41%;
+	height: 100px;
+	width: 172px;
+}
+
+div#box-text-login {
+	/*border: 1px solid blue;*/
+	width: 169px;
+	text-align: center;
+	font-family: Arial;
+	background-color: #A1A1;
+	margin-bottom: 5px;
+}
+
+div#box-input-email input{
+	border: 1px solid #A1A1A1;
+	border-radius: 7px;
+	width: 160px;
+	font-family: Arial;
+	margin-bottom: 2px;
+	padding: 3px;
+
+
+}
+
+div#box-input-passwd input{
+	border: 1px solid #A1A1A1;
+	border-radius: 7px;
+	width: 160px;
+	font-family: Arial;
+	margin-bottom: 2px;
+	padding: 3px;
+}
+
+div#container-box-footer button{
+	border: 1px solid #A1A1;
+	border-radius: 7px;
+	font-family: Arial;
+	padding: 3px;
+}
+
+div#container-box-footer button a{
+	font-family: Arial;
+	text-decoration: none;
+	color: black;
+}
+
+div#container-box-footer button{
+	border: 1px solid black;
+	text-align: center;
+	font-family: Arial;
+	float: right;
+}
